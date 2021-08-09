@@ -1,4 +1,4 @@
-# Immersive Garden Guidelines
+# Khaneland Guidelines
 
 - [Git](git/)
 - [JS](js/)
@@ -6,6 +6,7 @@
 - [Site checklist](site-checklist/)
 
 ## TODO
+
 - [x] Git
 - [x] JS
 - [x] Editor
